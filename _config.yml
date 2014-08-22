@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Beyond Microfoundations
 locale:           en_US
 url:              http://localhost:4000
 
@@ -28,8 +28,8 @@ kramdown:
 owner:
   name: David R. Pugh
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
+  bio: "A post-doctoral research fellow at Oxford University with an eclectic taste in economic theory and an adventurous spirit."
+  email: david.pugh@maths.ox.ac.uk
   disqus-shortname: 
   twitter: #username
   facebook: #username
@@ -41,8 +41,8 @@ owner:
     ad-slot: 
   bing-verify: 
   github: davidrpugh
-  stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  stackoverflow: http://stackoverflow.com/users/3017342/davidrpugh
+  linkedin: davidrpugh
   instagram: #username
   lastfm: #username
   tumblr: #username
