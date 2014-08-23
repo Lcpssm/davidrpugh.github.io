@@ -2,8 +2,8 @@
 
 title:            Beyond Microfoundations
 locale:           en_US
-url:              http://davidrpugh.github.io  # uncomment for live
-#url:              http://localhost:4000  # uncomment for dev
+#url:              http://davidrpugh.github.io  # uncomment for live
+url:              http://localhost:4000  # uncomment for dev
 
 # Jekyll configuration
 
