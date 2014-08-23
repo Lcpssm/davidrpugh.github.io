@@ -4,6 +4,7 @@ title: Research
 modified: 2014-08-22
 tags: [research]
 image:
-  feature:
+  feature: mt-whitney.jpg
+  credit: Clarissa Sweet
 ---
 
