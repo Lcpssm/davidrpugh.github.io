@@ -4,6 +4,7 @@ title: Teaching
 modified: 2014-08-22
 tags: [teaching, numerical methods]
 image:
-  feature:
+  feature: subway.jpg
+  credit: David R. Pugh
 ---
 
