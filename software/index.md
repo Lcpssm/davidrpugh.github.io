@@ -12,8 +12,11 @@ image:
 
 ## Lead Developer 
 
-### PyPWT
-[PyPWT](/software/pypwt) is a Python package for building the [Penn World Tables (PWT)](http://www.rug.nl/research/ggdc/data/penn-world-table) data set. The source code for the pyPWT package is hosted on [GitHub](https://github.com/davidrpugh/penn-world-tables).
+### [pyCollocation](/software/pyCollocation)
+Python package for solving initial value problems (IVP) and two-point boundary value problems (2PBVP) using the collocation method with various basis functions. The source code for the pyPWT package is hosted on [GitHub](https://github.com/davidrpugh/pyCollocation).
+
+### [pyPWT]((/software/pypwt))
+Python package for building the [Penn World Tables (PWT)](http://www.rug.nl/research/ggdc/data/penn-world-table) data set. The source code for the pyPWT package is hosted on [GitHub](https://github.com/davidrpugh/penn-world-tables).
 
 ## *Contributor*
 
