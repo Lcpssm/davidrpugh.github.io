@@ -17,10 +17,13 @@ image:
 [![Downloads](https://img.shields.io/pypi/dm/pyCollocation.svg)](https://pypi.python.org/pypi/pyCollocation/)
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.17283.svg)](http://dx.doi.org/10.5281/zenodo.17283)
 
+## Overview
 
 Python package for solving initial value problems (IVP) and two-point boundary value problems (2PBVP) using the collocation method with various basis functions. Currently I have implemented the following basis functions:
 
 * Orthogonal polynomials: [Chebyshev](http://en.wikipedia.org/wiki/Chebyshev_polynomials), [Laguerre](http://en.wikipedia.org/wiki/Laguerre_polynomials), [Legendre](http://en.wikipedia.org/wiki/Legendre_polynomials), and [Hermite](http://en.wikipedia.org/wiki/Hermite_polynomials).
+
+The source code for the pyPWT package is hosted on [GitHub](https://github.com/davidrpugh/pyCollocation).
 
 ## Installation
 
