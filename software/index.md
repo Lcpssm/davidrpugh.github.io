@@ -19,7 +19,7 @@ image:
 [![Downloads](https://img.shields.io/pypi/dm/pyCollocation.svg)](https://pypi.python.org/pypi/pyCollocation/)
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.17283.svg)](http://dx.doi.org/10.5281/zenodo.17283)
 
-## Overview 
+### Overview 
 
 Python package for solving initial value problems (IVP) and two-point boundary value problems (2PBVP) using the collocation method with various basis functions. The source code for the pyPWT package is hosted on [GitHub](https://github.com/davidrpugh/pyCollocation).
 
