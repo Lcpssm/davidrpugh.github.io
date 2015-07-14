@@ -18,6 +18,7 @@ image:
 [![GitHub License](https://img.shields.io/github/license/davidrpugh/pyAM.svg)]()
 [![Latest Version](https://img.shields.io/pypi/v/pyAM.svg)](https://pypi.python.org/pypi/pyAM/)
 [![Downloads](https://img.shields.io/pypi/dm/pyAM.svg)](https://pypi.python.org/pypi/pyAM/)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.20223.svg)](http://dx.doi.org/10.5281/zenodo.20223)
 
 ### Overview
 Python package for solving assortative matching models with two-sided heterogeneity. 
