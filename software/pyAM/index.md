@@ -15,7 +15,7 @@ Python package for solving assortative matching models with two-sided heterogene
 
 ## Installation
 
-Assuming you have [pip](https://pypi.python.org/pypi/pip) on your computer (as will be the case if you've installed [Anaconda](http://quant-econ.net/getting_started.html#installing-anaconda)) you can install the latest stable release of ``pycollocation`` by typing
+Assuming you have [pip](https://pypi.python.org/pypi/pip) on your computer (as will be the case if you've installed [Anaconda](http://quant-econ.net/getting_started.html#installing-anaconda)) you can install the latest stable release of ``pyam`` by typing
     
 {% highlight bash %}
     $ pip install pyam
