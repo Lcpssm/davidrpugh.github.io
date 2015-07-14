@@ -31,7 +31,7 @@ Python package for solving assortative matching models with two-sided heterogene
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/davidrpugh/pyCollocation/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/davidrpugh/pyCollocation/?branch=master)
 [![Latest Version](https://img.shields.io/pypi/v/pyCollocation.svg)](https://pypi.python.org/pypi/pyCollocation/)
 [![Downloads](https://img.shields.io/pypi/dm/pyCollocation.svg)](https://pypi.python.org/pypi/pyCollocation/)
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.17283.svg)](http://dx.doi.org/10.5281/zenodo.17283)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.20220.svg)](http://dx.doi.org/10.5281/zenodo.20220)
 
 ### Overview 
 
