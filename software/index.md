@@ -11,8 +11,10 @@ image:
 ---
 
 ## [pyCollocation](/software/pyCollocation)
+
 [![Build Status](https://travis-ci.org/davidrpugh/pyCollocation.svg?branch=master)](https://travis-ci.org/davidrpugh/pyCollocation)
 [![Coverage Status](https://coveralls.io/repos/davidrpugh/pyCollocation/badge.svg?branch=master)](https://coveralls.io/r/davidrpugh/pyCollocation?branch=master)
+[![Documentation Status](https://readthedocs.org/projects/pycollocation/badge/?version=latest)](https://readthedocs.org/projects/pycollocation/?badge=latest)
 [![Codacy Badge](https://www.codacy.com/project/badge/4838082c243c48afa392aabc7cce54ab)](https://www.codacy.com/app/drobert-pugh/pyCollocation)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/davidrpugh/pyCollocation/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/davidrpugh/pyCollocation/?branch=master)
 [![Latest Version](https://img.shields.io/pypi/v/pyCollocation.svg)](https://pypi.python.org/pypi/pyCollocation/)
