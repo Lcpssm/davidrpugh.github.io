@@ -15,6 +15,7 @@ image:
 [![Build Status](https://travis-ci.org/davidrpugh/pyAM.svg?branch=master)](https://travis-ci.org/davidrpugh/pyAM)
 [![Coverage Status](https://coveralls.io/repos/davidrpugh/pyAM/badge.svg?branch=master)](https://coveralls.io/github/davidrpugh/pyAM?branch=master)
 [![Codacy Badge](https://www.codacy.com/project/badge/f051d7b5ccce47cfa3d6907c9a1bd6bf)](https://www.codacy.com/app/drobert-pugh/pyAM)
+[![GitHub License](https://img.shields.io/github/license/davidrpugh/pyAM.svg)]()
 [![Latest Version](https://img.shields.io/pypi/v/pyAM.svg)](https://pypi.python.org/pypi/pyAM/)
 [![Downloads](https://img.shields.io/pypi/dm/pyAM.svg)](https://pypi.python.org/pypi/pyAM/)
 
@@ -29,6 +30,7 @@ Python package for solving assortative matching models with two-sided heterogene
 [![Documentation Status](https://readthedocs.org/projects/pycollocation/badge/?version=latest)](https://readthedocs.org/projects/pycollocation/?badge=latest)
 [![Codacy Badge](https://www.codacy.com/project/badge/4838082c243c48afa392aabc7cce54ab)](https://www.codacy.com/app/drobert-pugh/pyCollocation)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/davidrpugh/pyCollocation/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/davidrpugh/pyCollocation/?branch=master)
+[![GitHub License](https://img.shields.io/github/license/davidrpugh/pyCollocation.svg)]()
 [![Latest Version](https://img.shields.io/pypi/v/pyCollocation.svg)](https://pypi.python.org/pypi/pyCollocation/)
 [![Downloads](https://img.shields.io/pypi/dm/pyCollocation.svg)](https://pypi.python.org/pypi/pyCollocation/)
 [![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.20220.svg)](http://dx.doi.org/10.5281/zenodo.20220)
