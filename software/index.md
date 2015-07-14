@@ -2,13 +2,25 @@
 layout: page
 title: Software
 date: 
-modified: 2014-08-22
+modified: 2015-07-14
 excerpt:
-tags: [Python, Julia]
+tags: [Python]
 image:
   feature: climbing-glamaig.jpg
   credit: Clarissa Sweet
 ---
+
+## [pyAM](/software/pyAM)
+
+[![Build Status](https://travis-ci.org/davidrpugh/pyAM.svg?branch=master)](https://travis-ci.org/davidrpugh/pyAM)
+[![Coverage Status](https://coveralls.io/repos/davidrpugh/pyAM/badge.svg?branch=master&service=github)](https://coveralls.io/github/davidrpugh/pyAM?branch=master)
+[![Codacy Badge](https://www.codacy.com/project/badge/f051d7b5ccce47cfa3d6907c9a1bd6bf)](https://www.codacy.com/app/drobert-pugh/pyAM)
+[![Latest Version](https://img.shields.io/pypi/v/pyAM.svg)](https://pypi.python.org/pypi/pyAM/)
+[![Downloads](https://img.shields.io/pypi/dm/pyAM.svg)](https://pypi.python.org/pypi/pyAM/)
+
+### Overview
+Python package for solving assortative matching models with two-sided heterogeneity. 
+
 
 ## [pyCollocation](/software/pyCollocation)
 
