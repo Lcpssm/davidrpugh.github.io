@@ -11,7 +11,7 @@ image:
 
 ## Overview
 
-Python package for solving assortative matching models with two-sided heterogeneity. The source code for the pyPWT package is hosted on [GitHub](https://github.com/davidrpugh/pyAM).
+Python package for solving assortative matching models with two-sided heterogeneity. The source code for the pyAM package is hosted on [GitHub](https://github.com/davidrpugh/pyAM).
 
 ## Installation
 

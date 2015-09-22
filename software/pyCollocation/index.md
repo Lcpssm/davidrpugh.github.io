@@ -2,7 +2,7 @@
 layout: page
 title: pyCollocation
 date: 
-modified: 2015-08-13
+modified: 2015-07-14
 excerpt:
 tags: [python, economics, boundary value problems]
 image:
