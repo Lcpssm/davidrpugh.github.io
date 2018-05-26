@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Beyond Microfoundations
+title:            Data Science in the Sands
 locale:           en_US
 url:              http://davidrpugh.github.io  # uncomment for live
 #url:              http://localhost:4000  # uncomment for dev
@@ -28,10 +28,10 @@ kramdown:
 owner:
   name: David R. Pugh
   avatar: bio-photo.jpg
-  bio: "A post-doctoral research fellow at the University of Oxford with an eclectic taste in economic theory and an adventurous spirit."
-  email: david.pugh@maths.ox.ac.uk
+  bio: "A Data Scientist at KAUST Core Labs and Associate Fellow with the Institute of New Economics Thinking (INET) at University of Oxford."
+  email: drpugh@protonmail.com
   disqus-shortname: 
-  twitter: #username
+  twitter: @TheSandyCoder
   facebook: #username
   google:
     plus: #username
